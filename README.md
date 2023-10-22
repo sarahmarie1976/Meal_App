@@ -34,8 +34,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/react-native-expo-meal-app.git
-Change into the project directory:
+https://github.com/sarahmarie1976/Meal_App.git
 
 bash
 Copy code
